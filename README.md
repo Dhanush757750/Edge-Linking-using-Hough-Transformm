@@ -1,6 +1,6 @@
 # **EXP NO. 7: Edge-Linking-using-Hough-Transformm**
-# **NAME : K.SriSaran Karthik**
-# **REG NO : 212224230275**
+# **NAME : C.DHANUSH**
+# **REG NO : 212224040066**
 
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
